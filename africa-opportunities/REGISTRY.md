@@ -24,6 +24,33 @@ Ce registre distingue les événements internationaux accessibles aux participan
 | OPP-015 | OpenSSF Security Contribution | Contribution | P2 | Proposition OSEF | Continue | Security Lead | Construire un lab de vérification des artefacts | Lab supply chain | [Lien](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/blob/main/africa-opportunities/2026-11-10-openssf-security-contribution.md) |
 | OPP-016 | Observabilité des agents IA | Lab | P2 | Proposition OSEF | À planifier | Technical Lead | Préparer un atelier traces et métriques d'agents | Lab OTLP | [Lien](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/blob/main/africa-opportunities/2026-11-10-agent-observability-training.md) |
 
+## Suivi de gouvernance
+
+**Référentiel :** [GOVERNANCE.md](GOVERNANCE.md) · **Modèle :** [OPPORTUNITY_TEMPLATE.md](OPPORTUNITY_TEMPLATE.md)
+
+**État de contrôle au 10 novembre 2026 :** 16 entrées. Les responsables sont des fonctions proposées, non assignées. La vérification individuelle des sources et des dates reste à effectuer ; les statuts du tableau sont des libellés éditoriaux historiques et ne constituent pas une confirmation d'ouverture.
+
+| ID | Statut normalisé de gouvernance | Dernière vérification individuelle | Prochaine revue proposée | Responsable nommé |
+|---|---|---|---|---|
+| OPP-001 | À revalider | Non effectuée | 2026-11-12 | Non assigné |
+| OPP-002 | À revalider | Non effectuée | 2026-11-12 | Non assigné |
+| OPP-003 | À revalider | Non effectuée | 2026-11-12 | Non assigné |
+| OPP-004 | À revalider | Non effectuée | 2026-11-12 | Non assigné |
+| OPP-005 | À revalider | Non effectuée | 2026-11-17 | Non assigné |
+| OPP-006 | À revalider | Non effectuée | 2026-11-17 | Non assigné |
+| OPP-007 | À revalider | Non effectuée | 2026-11-17 | Non assigné |
+| OPP-008 | À revalider | Non effectuée | 2026-11-17 | Non assigné |
+| OPP-009 | À revalider | Non effectuée | 2026-11-17 | Non assigné |
+| OPP-010 | À revalider | Non effectuée | 2026-12-10 | Non assigné |
+| OPP-011 | À revalider | Non effectuée | 2026-12-10 | Non assigné |
+| OPP-012 | À revalider | Non effectuée | 2026-12-10 | Non assigné |
+| OPP-013 | À revalider | Non effectuée | 2026-12-10 | Non assigné |
+| OPP-014 | À revalider | Non effectuée | 2026-12-10 | Non assigné |
+| OPP-015 | Proposition OSEF | Non effectuée | 2026-12-10 | Non assigné |
+| OPP-016 | Proposition OSEF | Non effectuée | 2026-12-10 | Non assigné |
+
+Les dates de prochaine revue sont des **propositions de calendrier interne**, pas des dates annoncées par les organisateurs. Une entrée ne passe à « Ouverte » qu'après vérification explicite des conditions sur une source primaire.
+
 ## Règles de qualification
 - Source officielle et date de dernière vérification à documenter dans chaque fiche.
 - Ne pas confondre événement confirmé, CFP ouvert, financement disponible et initiative interne.
