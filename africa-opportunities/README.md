@@ -1,10 +1,12 @@
 # Opportunités Afrique francophone
 
+**Point d'entrée :** [Registre central — 16 opportunités](REGISTRY.md) · [Gouvernance](GOVERNANCE.md) · [Modèle de fiche](OPPORTUNITY_TEMPLATE.md)
+
 Ce répertoire regroupe **les opportunités exploitables par OSEF depuis l'Afrique francophone** : contributions, laboratoires, formations, CFP, bourses, événements et partenariats, uniquement avec source et statut explicites.
 
 > Les fiches publiées ici sont des **propositions internes ou des pistes à qualifier**, pas des inscriptions, invitations, financements ou partenariats obtenus. Avant de communiquer publiquement ou de réserver un déplacement, revalider les sources officielles.
 
-## Registre initial — 10 novembre 2026
+## Fiches historiques — 10 novembre 2026
 
 | Opportunité | Type | Statut | Action recommandée |
 | --- | --- | --- | --- |
