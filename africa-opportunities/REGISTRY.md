@@ -48,11 +48,14 @@ Ce registre distingue les événements internationaux accessibles aux participan
 | OPP-037 | [Cyber Africa Forum Cotonou](opp-037-cyber-africa-forum-cotonou.md) | Partenariat potentiel | P2 | À qualifier | 16–17 novembre 2026 à confirmer | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://www.cyberafricaforum.com/edition-2026) |
 | OPP-038 | [Ivoire Tech Forum](opp-038-ivoire-tech-forum.md) | Partenariat potentiel | P2 | À qualifier | 11–13 novembre 2026 à confirmer | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://www.ivoiretechforum.com/) |
 
+| OPP-039 | [Recherche scientifique ouverte — Cameroun](opp-039-open-science-cameroon-computational-drug-discovery.md) | Recherche / contribution | P2 | À qualifier | Novembre 2026, jour à confirmer | Non assigné | Vérifier article et besoins réels | Note de qualification | [Frontiers](https://www.frontiersin.org/articles/10.3389/fddsv.2026.1973504) |
+| OPP-040 | [OSI Open Source AI Salons — proposition francophone](2026-11-13-osi-open-source-ai-salon-francophone-africa.md) | Gouvernance IA / collaboration | P1 | Proposition OSEF | Fiche créée 13 novembre 2026 | Non assigné | Vérifier modalités OSI et préparer contribution | Note et dossier de participation | [OSI](https://opensource.org/blog/open-source-ai-salons-shaping-the-osaid-together) |
+
 ## Suivi de gouvernance
 
 **Référentiel :** [GOVERNANCE.md](GOVERNANCE.md) · **Modèle :** [OPPORTUNITY_TEMPLATE.md](OPPORTUNITY_TEMPLATE.md)
 
-**État de contrôle au 15 novembre 2026 :** 38 entrées. Les responsables sont des fonctions proposées, non assignées. La vérification individuelle des sources et des dates reste à effectuer ; les statuts du tableau sont des libellés éditoriaux historiques et ne constituent pas une confirmation d'ouverture.
+**État de contrôle au 15 novembre 2026 :** 40 entrées. Les responsables sont des fonctions proposées, non assignées. La vérification individuelle des sources et des dates reste à effectuer ; les statuts du tableau sont des libellés éditoriaux historiques et ne constituent pas une confirmation d'ouverture.
 
 | ID | Statut normalisé de gouvernance | Dernière vérification individuelle | Prochaine revue proposée | Responsable nommé |
 |---|---|---|---|---|
@@ -94,6 +97,8 @@ Ce registre distingue les événements internationaux accessibles aux participan
 | OPP-036 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
 | OPP-037 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
 | OPP-038 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-039 | À qualifier | 2026-11-15 (source à revalider) | 2026-11-20 | Non assigné |
+| OPP-040 | Proposition OSEF | 2026-11-13 (fiche existante) | 2026-11-20 | Non assigné |
 
 Les dates de prochaine revue sont des **propositions de calendrier interne**, pas des dates annoncées par les organisateurs. Une entrée ne passe à « Ouverte » qu'après vérification explicite des conditions sur une source primaire.
 
