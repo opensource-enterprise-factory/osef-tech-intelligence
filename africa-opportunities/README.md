@@ -1,6 +1,6 @@
 # Opportunités Afrique francophone
 
-**Point d'entrée :** [Registre central — 18 opportunités](REGISTRY.md) · [Gouvernance](GOVERNANCE.md) · [Modèle de fiche](OPPORTUNITY_TEMPLATE.md)
+**Point d'entrée :** [Registre central — 38 opportunités](REGISTRY.md) · [Gouvernance](GOVERNANCE.md) · [Modèle de fiche](OPPORTUNITY_TEMPLATE.md)
 
 Ce répertoire regroupe **les opportunités exploitables par OSEF depuis l'Afrique francophone** : contributions, laboratoires, formations, CFP, bourses, événements et partenariats, uniquement avec source et statut explicites.
 
@@ -31,3 +31,30 @@ L'enrichissement de ce registre doit suivre les trois veilles OSEF (Open Source 
 - [OPP-018 — Mojaloop / NimbaPay Guinée : maintenance des infrastructures ouvertes](opp-018-mojaloop-nimbapay-maintenance-guinee.md)
 
 Ces fiches sont des opportunités **à qualifier** : aucun partenariat ou financement OpenAwale n'est présumé obtenu.
+
+## Rattrapage historique — 26 octobre au 15 novembre 2026
+
+Vingt fiches complémentaires issues des éditions historiques de la veille OpenAwale, avec statut **À qualifier** :
+
+- [OPP-019 — OSSCameroon / Hacktoberfest Cameroon](opp-019-osscameroon-hacktoberfest-2026.md)
+- [OPP-020 — Eclipse / OSCA — OCX Africa](opp-020-eclipse-osca-ocx-africa.md)
+- [OPP-021 — GDG Kigali Hacktoberfest](opp-021-gdg-kigali-hacktoberfest.md)
+- [OPP-022 — Union africaine — Libreville TIC](opp-022-union-africaine-libreville-digital-governance.md)
+- [OPP-023 — ODSI / Apereo](opp-023-odsi-apereo-partnership.md)
+- [OPP-024 — Galsen DEV Hacktoberfest](opp-024-galsen-dev-hacktoberfest.md)
+- [OPP-025 — OpenInfra Days Kenya](opp-025-openinfra-days-kenya.md)
+- [OPP-026 — React Conf Ghana](opp-026-react-conf-ghana.md)
+- [OPP-027 — Africa-Europe Innovation Dialogues](opp-027-africa-europe-innovation-dialogues.md)
+- [OPP-028 — WACSI Digital Futures](opp-028-wacsi-digital-futures-west-africa.md)
+- [OPP-029 — DevFest Yaoundé](opp-029-gdg-yaounde-devfest.md)
+- [OPP-030 — DevFest Ouaga](opp-030-gdg-ouaga-devfest.md)
+- [OPP-031 — DevFest Côte d'Ivoire — GDG](opp-031-gdg-yamoussoukro-devfest-collaboration.md)
+- [OPP-032 — DevFest Ndéré](opp-032-gdg-ndere-devfest.md)
+- [OPP-033 — OpenGov Africa GSoC](opp-033-opengov-africa-gsoc.md)
+- [OPP-034 — Open Source Africa — Containerization](opp-034-opensourceafrica-containerization.md)
+- [OPP-035 — DPGA Annual Members Meeting](opp-035-dpga-annual-members-meeting.md)
+- [OPP-036 — AfricaNenda SIIPS 2026](opp-036-africanenda-siips-2026.md)
+- [OPP-037 — Cyber Africa Forum Cotonou](opp-037-cyber-africa-forum-cotonou.md)
+- [OPP-038 — Ivoire Tech Forum](opp-038-ivoire-tech-forum.md)
+
+**Périmètre :** événements communautaires, initiatives Open Source, politiques numériques adjacentes et pistes de financement. L'inclusion dans le registre ne signifie pas que l'organisation collabore avec OpenAwale, qu'une candidature est ouverte ou qu'un financement est acquis. Les dates et conditions restent soumises à revalidation sur source primaire.
