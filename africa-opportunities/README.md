@@ -1,6 +1,6 @@
 # Opportunités Afrique francophone
 
-**Point d'entrée :** [Registre central — 38 opportunités](REGISTRY.md) · [Gouvernance](GOVERNANCE.md) · [Modèle de fiche](OPPORTUNITY_TEMPLATE.md)
+**Point d'entrée :** [Registre central — 40 opportunités](REGISTRY.md) · [Gouvernance](GOVERNANCE.md) · [Modèle de fiche](OPPORTUNITY_TEMPLATE.md)
 
 Ce répertoire regroupe **les opportunités exploitables par OSEF depuis l'Afrique francophone** : contributions, laboratoires, formations, CFP, bourses, événements et partenariats, uniquement avec source et statut explicites.
 
@@ -58,3 +58,10 @@ Vingt fiches complémentaires issues des éditions historiques de la veille Open
 - [OPP-038 — Ivoire Tech Forum](opp-038-ivoire-tech-forum.md)
 
 **Périmètre :** événements communautaires, initiatives Open Source, politiques numériques adjacentes et pistes de financement. L'inclusion dans le registre ne signifie pas que l'organisation collabore avec OpenAwale, qu'une candidature est ouverte ou qu'un financement est acquis. Les dates et conditions restent soumises à revalidation sur source primaire.
+
+## Autres fiches retrouvées dans l'historique
+
+- [OPP-039 — Recherche scientifique ouverte au Cameroun](opp-039-open-science-cameroon-computational-drug-discovery.md) — publication à revalider.
+- [OPP-040 — OSI Open Source AI Salons Afrique francophone](2026-11-13-osi-open-source-ai-salon-francophone-africa.md) — fiche existante indexée sans doublon, projet de candidature non soumis.
+
+**Total : 40 entrées dans le registre**, dont les anciennes entrées OPP-001 à OPP-018, vingt fiches de rattrapage OPP-019 à OPP-038, une fiche scientifique à qualifier et une fiche OSI existante nouvellement indexée.
