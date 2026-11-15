@@ -65,3 +65,10 @@ Vingt fiches complémentaires issues des éditions historiques de la veille Open
 - [OPP-040 — OSI Open Source AI Salons Afrique francophone](2026-11-13-osi-open-source-ai-salon-francophone-africa.md) — fiche existante indexée sans doublon, projet de candidature non soumis.
 
 **Total : 40 entrées dans le registre**, dont les anciennes entrées OPP-001 à OPP-018, vingt fiches de rattrapage OPP-019 à OPP-038, une fiche scientifique à qualifier et une fiche OSI existante nouvellement indexée.
+
+## Meetups possibles et suites de veille
+
+- [Catalogue des 10 nouveaux meetups et 12 propositions existantes](MEETUPS-CATALOGUE.md) — liens vers les GitHub Issues, opportunités OPP et labs associés.
+- [Catalogue des 15 labs](LABS-CATALOGUE.md).
+
+**Statut :** propositions non programmées ; intervenants, dates et partenariats à confirmer avant toute communication.
