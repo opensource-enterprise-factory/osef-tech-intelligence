@@ -1,6 +1,6 @@
 # Registre OSEF — Opportunités Afrique francophone
 
-**Édition :** 2026-11-10  
+**Édition :** 2026-11-15  
 **Statut :** registre de travail. Les responsables sont proposés, non assignés. Les dates futures doivent être revérifiées avant toute candidature.
 
 Ce registre distingue les événements internationaux accessibles aux participants africains des événements physiquement organisés en Afrique. Une date annoncée ne prouve pas l'ouverture d'un CFP, d'une bourse ou d'une inscription.
@@ -24,11 +24,14 @@ Ce registre distingue les événements internationaux accessibles aux participan
 | OPP-015 | OpenSSF Security Contribution | Contribution | P2 | Proposition OSEF | Continue | Security Lead | Construire un lab de vérification des artefacts | Lab supply chain | [Lien](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/blob/main/africa-opportunities/2026-11-10-openssf-security-contribution.md) |
 | OPP-016 | Observabilité des agents IA | Lab | P2 | Proposition OSEF | À planifier | Technical Lead | Préparer un atelier traces et métriques d'agents | Lab OTLP | [Lien](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/blob/main/africa-opportunities/2026-11-10-agent-observability-training.md) |
 
+| OPP-017 | [WikiIndaba Hackathon — maintenance des outils Wikimedia](opp-017-wikiindaba-hackathon-maintenance-commons.md) | Contribution / partenariat | P0 | À qualifier | 13–15 novembre 2026 (événement) | Non assigné | Identifier 3 projets et leurs mainteneurs | Trois fiches projets | [Wikimedia](https://meta.wikimedia.org/wiki/Event:WikiIndaba_conference_2026/Hackathon) |
+| OPP-018 | [Mojaloop / NimbaPay Guinée](opp-018-mojaloop-nimbapay-maintenance-guinee.md) | Partenariat / maintenance | P1 | À qualifier | Publication 9 novembre 2026 | Non assigné | Contacter Mojaloop et AfricaNenda | Note de cadrage | [Mojaloop](https://mojaloop.io/la-technologie-a-code-source-ouvert-de-la-fondation-mojaloop-permet-le-lancement-de-nimbapay-le-systeme-national-de-paiement-instantane-de-la-guinee/) |
+
 ## Suivi de gouvernance
 
 **Référentiel :** [GOVERNANCE.md](GOVERNANCE.md) · **Modèle :** [OPPORTUNITY_TEMPLATE.md](OPPORTUNITY_TEMPLATE.md)
 
-**État de contrôle au 10 novembre 2026 :** 16 entrées. Les responsables sont des fonctions proposées, non assignées. La vérification individuelle des sources et des dates reste à effectuer ; les statuts du tableau sont des libellés éditoriaux historiques et ne constituent pas une confirmation d'ouverture.
+**État de contrôle au 15 novembre 2026 :** 18 entrées. Les responsables sont des fonctions proposées, non assignées. La vérification individuelle des sources et des dates reste à effectuer ; les statuts du tableau sont des libellés éditoriaux historiques et ne constituent pas une confirmation d'ouverture.
 
 | ID | Statut normalisé de gouvernance | Dernière vérification individuelle | Prochaine revue proposée | Responsable nommé |
 |---|---|---|---|---|
@@ -48,6 +51,8 @@ Ce registre distingue les événements internationaux accessibles aux participan
 | OPP-014 | À revalider | Non effectuée | 2026-12-10 | Non assigné |
 | OPP-015 | Proposition OSEF | Non effectuée | 2026-12-10 | Non assigné |
 | OPP-016 | Proposition OSEF | Non effectuée | 2026-12-10 | Non assigné |
+| OPP-017 | À qualifier | 2026-11-15 | 2026-11-18 | Non assigné |
+| OPP-018 | À qualifier | 2026-11-15 | 2026-11-18 | Non assigné |
 
 Les dates de prochaine revue sont des **propositions de calendrier interne**, pas des dates annoncées par les organisateurs. Une entrée ne passe à « Ouverte » qu'après vérification explicite des conditions sur une source primaire.
 
