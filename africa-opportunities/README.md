@@ -1,6 +1,6 @@
 # Opportunités Afrique francophone
 
-**Point d'entrée :** [Registre central — 16 opportunités](REGISTRY.md) · [Gouvernance](GOVERNANCE.md) · [Modèle de fiche](OPPORTUNITY_TEMPLATE.md)
+**Point d'entrée :** [Registre central — 18 opportunités](REGISTRY.md) · [Gouvernance](GOVERNANCE.md) · [Modèle de fiche](OPPORTUNITY_TEMPLATE.md)
 
 Ce répertoire regroupe **les opportunités exploitables par OSEF depuis l'Afrique francophone** : contributions, laboratoires, formations, CFP, bourses, événements et partenariats, uniquement avec source et statut explicites.
 
@@ -24,3 +24,10 @@ Ce répertoire regroupe **les opportunités exploitables par OSEF depuis l'Afriq
 - **Validation :** ne jamais transformer une proposition de lab/meetup en événement annoncé, ni un sponsoring hypothétique en financement obtenu.
 
 L'enrichissement de ce registre doit suivre les trois veilles OSEF (Open Source mondiale, Linux Foundation et Cloud Native Afrique), après dédoublonnage et vérification éditoriale.
+
+## Fiches ajoutées — 15 novembre 2026
+
+- [OPP-017 — WikiIndaba : maintenance des outils Wikimedia africains](opp-017-wikiindaba-hackathon-maintenance-commons.md)
+- [OPP-018 — Mojaloop / NimbaPay Guinée : maintenance des infrastructures ouvertes](opp-018-mojaloop-nimbapay-maintenance-guinee.md)
+
+Ces fiches sont des opportunités **à qualifier** : aucun partenariat ou financement OpenAwale n'est présumé obtenu.
