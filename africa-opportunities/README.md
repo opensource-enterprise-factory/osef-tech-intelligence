@@ -6,6 +6,14 @@ Ce répertoire regroupe **les opportunités exploitables par OSEF depuis l'Afriq
 
 > Les fiches publiées ici sont des **propositions internes ou des pistes à qualifier**, pas des inscriptions, invitations, financements ou partenariats obtenus. Avant de communiquer publiquement ou de réserver un déplacement, revalider les sources officielles.
 
+## Participer et suivre les réalisations
+
+- [Rejoindre les contributions — JOIN-US](../JOIN-US.md)
+- [Formulaire GitHub de participation (public)](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/new?template=join-osef.yml)
+- [Tableau de suivi des 15 labs](LABS-TRACKER.md)
+- [Catalogue des 15 labs](LABS-CATALOGUE.md)
+- [Catalogue des meetups](MEETUPS-CATALOGUE.md)
+
 ## Fiches historiques — 10 novembre 2026
 
 | Opportunité | Type | Statut | Action recommandée |
