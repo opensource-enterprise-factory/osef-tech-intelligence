@@ -1,6 +1,6 @@
 # Registre OSEF — Opportunités Afrique francophone
 
-**Édition :** 2026-11-15  
+**Édition :** 2026-11-15 — rattrapage historique  
 **Statut :** registre de travail. Les responsables sont proposés, non assignés. Les dates futures doivent être revérifiées avant toute candidature.
 
 Ce registre distingue les événements internationaux accessibles aux participants africains des événements physiquement organisés en Afrique. Une date annoncée ne prouve pas l'ouverture d'un CFP, d'une bourse ou d'une inscription.
@@ -27,11 +27,32 @@ Ce registre distingue les événements internationaux accessibles aux participan
 | OPP-017 | [WikiIndaba Hackathon — maintenance des outils Wikimedia](opp-017-wikiindaba-hackathon-maintenance-commons.md) | Contribution / partenariat | P0 | À qualifier | 13–15 novembre 2026 (événement) | Non assigné | Identifier 3 projets et leurs mainteneurs | Trois fiches projets | [Wikimedia](https://meta.wikimedia.org/wiki/Event:WikiIndaba_conference_2026/Hackathon) |
 | OPP-018 | [Mojaloop / NimbaPay Guinée](opp-018-mojaloop-nimbapay-maintenance-guinee.md) | Partenariat / maintenance | P1 | À qualifier | Publication 9 novembre 2026 | Non assigné | Contacter Mojaloop et AfricaNenda | Note de cadrage | [Mojaloop](https://mojaloop.io/la-technologie-a-code-source-ouvert-de-la-fondation-mojaloop-permet-le-lancement-de-nimbapay-le-systeme-national-de-paiement-instantane-de-la-guinee/) |
 
+| OPP-019 | [OSSCameroon / Hacktoberfest Cameroon](opp-019-osscameroon-hacktoberfest-2026.md) | Contribution | P1 | À qualifier | 31 octobre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://hacktoberfest.cm/) |
+| OPP-020 | [Eclipse / OSCA — OCX Africa](opp-020-eclipse-osca-ocx-africa.md) | Collaboration | P1 | À qualifier | 30–31 octobre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://ocxconf.org/ocx-africa/) |
+| OPP-021 | [GDG Kigali Hacktoberfest](opp-021-gdg-kigali-hacktoberfest.md) | Contribution | P2 | À qualifier | 31 octobre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://gdg.community.dev/events/details/google-gdg-kigali-presents-hacktoberfest-hack-day-kigali-2026/) |
+| OPP-022 | [Union africaine — Libreville TIC](opp-022-union-africaine-libreville-digital-governance.md) | Politique numérique | P1 | À qualifier | 30 octobre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://www.au.int/en/pressreleases/20261030/digital-strategies-delivery-au-ministers-call-increased-investment) |
+| OPP-023 | [ODSI / Apereo](opp-023-odsi-apereo-partnership.md) | Collaboration | P1 | À qualifier | 21 juillet 2026 (historique) | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://www.apereo.org/news/2026/apereo-foundation-and-odsi-form-partnership-advance-open-source-across-african-continent) |
+| OPP-024 | [Galsen DEV Hacktoberfest](opp-024-galsen-dev-hacktoberfest.md) | Contribution | P1 | À qualifier | 24 octobre 2026 (historique) | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://hacktoberfest.galsen.dev/) |
+| OPP-025 | [OpenInfra Days Kenya](opp-025-openinfra-days-kenya.md) | Communauté | P1 | À qualifier | 6–7 novembre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://openinfra.org/days/kenya/) |
+| OPP-026 | [React Conf Ghana](opp-026-react-conf-ghana.md) | Communauté | P2 | À qualifier | 4–5 novembre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://sessionize.com/react-conf-ghana-2026/) |
+| OPP-027 | [Africa-Europe Innovation Dialogues](opp-027-africa-europe-innovation-dialogues.md) | Partenariat potentiel | P2 | À qualifier | 3–4 novembre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://www.africaeuropeinnovation.net/fr/event/dialogues-afrique-europe-sur-linnovation-2026/) |
+| OPP-028 | [WACSI Digital Futures](opp-028-wacsi-digital-futures-west-africa.md) | Partenariat potentiel | P2 | À qualifier | 17–18 novembre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://digitalfutures.wacsi.org/) |
+| OPP-029 | [DevFest Yaoundé](opp-029-gdg-yaounde-devfest.md) | Communauté | P2 | À qualifier | 21 novembre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://gdg.community.dev/events/details/google-gdg-yaounde-presents-devfest-yaounde-2026/) |
+| OPP-030 | [DevFest Ouaga](opp-030-gdg-ouaga-devfest.md) | Communauté | P2 | À qualifier | 21 novembre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://gdg.community.dev/events/details/google-gdg-ouaga-presents-devfest-ouaga-2026/) |
+| OPP-031 | [DevFest Côte d'Ivoire — GDG](opp-031-gdg-yamoussoukro-devfest-collaboration.md) | Communauté | P1 | À qualifier | 28 novembre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://gdg.community.dev/events/details/google-gdg-yamoussoukro-presents-devfest-cote-divoire-2026-yamoussoukro/) |
+| OPP-032 | [DevFest Ndéré](opp-032-gdg-ndere-devfest.md) | Communauté | P2 | À qualifier | 28 novembre 2026 à confirmer | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://gdg.community.dev/events/details/google-gdg-ndere-presents-devfest-ndere-2026/) |
+| OPP-033 | [OpenGov Africa GSoC](opp-033-opengov-africa-gsoc.md) | Mentorat | P2 | À qualifier | GSoC 2026, historique | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://github.com/OpenGovAfrica/gsoc) |
+| OPP-034 | [Open Source Africa — Containerization](opp-034-opensourceafrica-containerization.md) | Formation | P2 | À qualifier | 13 novembre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://opensourceafrica.org/event/introduction-to-containerization/) |
+| OPP-035 | [DPGA Annual Members Meeting](opp-035-dpga-annual-members-meeting.md) | Partenariat potentiel | P1 | À qualifier | 17–19 novembre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://opensource.org/events/502949) |
+| OPP-036 | [AfricaNenda SIIPS 2026](opp-036-africanenda-siips-2026.md) | Partenariat potentiel | P1 | À qualifier | 18–20 novembre 2026 | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://mojaloop.io/events/siips-2026/) |
+| OPP-037 | [Cyber Africa Forum Cotonou](opp-037-cyber-africa-forum-cotonou.md) | Partenariat potentiel | P2 | À qualifier | 16–17 novembre 2026 à confirmer | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://www.cyberafricaforum.com/edition-2026) |
+| OPP-038 | [Ivoire Tech Forum](opp-038-ivoire-tech-forum.md) | Partenariat potentiel | P2 | À qualifier | 11–13 novembre 2026 à confirmer | Non assigné | Vérifier source, contacter organisme et documenter besoin | Fiche de qualification | [Source](https://www.ivoiretechforum.com/) |
+
 ## Suivi de gouvernance
 
 **Référentiel :** [GOVERNANCE.md](GOVERNANCE.md) · **Modèle :** [OPPORTUNITY_TEMPLATE.md](OPPORTUNITY_TEMPLATE.md)
 
-**État de contrôle au 15 novembre 2026 :** 18 entrées. Les responsables sont des fonctions proposées, non assignées. La vérification individuelle des sources et des dates reste à effectuer ; les statuts du tableau sont des libellés éditoriaux historiques et ne constituent pas une confirmation d'ouverture.
+**État de contrôle au 15 novembre 2026 :** 38 entrées. Les responsables sont des fonctions proposées, non assignées. La vérification individuelle des sources et des dates reste à effectuer ; les statuts du tableau sont des libellés éditoriaux historiques et ne constituent pas une confirmation d'ouverture.
 
 | ID | Statut normalisé de gouvernance | Dernière vérification individuelle | Prochaine revue proposée | Responsable nommé |
 |---|---|---|---|---|
@@ -53,6 +74,26 @@ Ce registre distingue les événements internationaux accessibles aux participan
 | OPP-016 | Proposition OSEF | Non effectuée | 2026-12-10 | Non assigné |
 | OPP-017 | À qualifier | 2026-11-15 | 2026-11-18 | Non assigné |
 | OPP-018 | À qualifier | 2026-11-15 | 2026-11-18 | Non assigné |
+| OPP-019 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-020 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-021 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-022 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-023 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-024 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-025 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-026 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-027 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-028 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-029 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-030 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-031 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-032 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-033 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-034 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-035 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-036 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-037 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
+| OPP-038 | À qualifier | 2026-11-15 (rattrapage ; détails à revalider) | 2026-11-20 | Non assigné |
 
 Les dates de prochaine revue sont des **propositions de calendrier interne**, pas des dates annoncées par les organisateurs. Une entrée ne passe à « Ouverte » qu'après vérification explicite des conditions sur une source primaire.
 
