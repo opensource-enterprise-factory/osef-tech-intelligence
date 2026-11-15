@@ -12,21 +12,13 @@
 
 **Premier parcours conseillé :** [LAB-AFR-001 — audit des projets OSS](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/29), [LAB-AFR-002 — Wikimedia](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/116) ou [LAB-AFR-011 — première contribution](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/109).
 
-## 2. Manifester son intérêt (données publiques uniquement)
+## 2. Manifester son intérêt — futur formulaire Google Forms
 
-**[Ouvrir le formulaire GitHub de participation](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/new?template=join-osef.yml)**
+**Statut :** le formulaire Google Forms est préparé mais **pas encore créé ni ouvert aux réponses**. Le [guide de mise en place](onboarding/GOOGLE-FORMS-SETUP.md) et le [script de création](onboarding/create-osef-google-form.gs) sont disponibles ; le lien d'inscription sera ajouté ici uniquement après exécution, contrôle de confidentialité et essai réussi.
 
-Le formulaire demande uniquement :
-- un **lien de profil GitHub déjà public** ;
-- le parcours qui vous intéresse (lab, contribution, meetup) ;
-- un identifiant de lab/issue **optionnel** et un bref objectif technique ;
-- une confirmation explicite que vous acceptez de rendre cette réponse publique.
+**En attendant**, vous pouvez explorer le [catalogue des labs](africa-opportunities/LABS-CATALOGUE.md), lire les issues et contribuer directement aux dépôts publics, sans transmettre vos coordonnées. Ne publiez pas d'e-mail ni de téléphone dans une GitHub Issue.
 
-**Attention : les GitHub Issues sont publiques dans ce dépôt.** N'indiquez **jamais** d'adresse e-mail, numéro de téléphone, adresse postale, employeur, mot de passe, token, document d'identité, CV privé, donnée client ou information confidentielle. N'envoyez pas d'informations privées dans les commentaires non plus. Votre pseudonyme GitHub suffit.
-
-Vous pouvez aussi **ne pas remplir le formulaire** : choisir directement un lab et commenter son issue, avec uniquement des informations que vous acceptez de publier. Ne pas mettre votre GitHub en commentaire d'un post LinkedIn si vous préférez le garder en dehors de LinkedIn.
-
-Le formulaire public **n'est pas un canal de contact privé**. Un canal privé et ses conditions de confidentialité devront être mis en place séparément s'il faut organiser des entretiens ou recueillir des coordonnées.
+Le futur Google Forms demandera un pseudonyme, une URL GitHub publique, vos intérêts techniques et votre participation souhaitée. L'e-mail sera **facultatif**, visible seulement par les personnes habilitées au traitement des réponses, avec une autorisation **distincte** pour toute citation de votre profil dans un suivi public.
 
 ## 3. Réaliser un lab
 
