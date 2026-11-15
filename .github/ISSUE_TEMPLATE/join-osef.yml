@@ -1,0 +1,54 @@
+name: "Rejoindre les contributions OSEF (public)"
+description: "Volontariat pour les labs, contributions et meetups. Ne transmettez aucune information privée."
+title: "[JOIN] Participation aux labs / contributions / meetups"
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Important : cette issue sera PUBLIQUE.** Ne saisissez ni e-mail, ni téléphone, ni identité civile, ni coordonnées, ni CV, ni informations de votre employeur, ni données clients, ni secrets.
+        Seules des informations techniques déjà publiques sont nécessaires. Ce formulaire n'est ni une candidature à un emploi ni un engagement de mentorat.
+        Consultez [JOIN-US.md](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/blob/main/JOIN-US.md).
+  - type: input
+    id: github-profile
+    attributes:
+      label: Profil GitHub public
+      description: "Lien vers votre profil GitHub déjà public ; n'ajoutez pas d'autres coordonnées."
+      placeholder: "https://github.com/votre-pseudonyme"
+    validations:
+      required: true
+  - type: dropdown
+    id: path
+    attributes:
+      label: Comment souhaitez-vous participer ?
+      options:
+        - Réaliser un lab OSEF
+        - Contribuer à un projet open source existant
+        - Présenter un sujet / une démo lors d'un meetup
+        - Explorer plusieurs de ces parcours
+    validations:
+      required: true
+  - type: input
+    id: lab
+    attributes:
+      label: Lab ou issue GitHub envisagée (facultatif)
+      description: "Exemple : LAB-AFR-002 / #116. Voir LABS-CATALOGUE.md."
+      placeholder: "LAB-AFR-___ ou #___"
+    validations:
+      required: false
+  - type: textarea
+    id: goal
+    attributes:
+      label: Objectif technique ou proposition de sujet
+      description: "Décrivez en quelques lignes ce que vous aimeriez construire, apprendre ou démontrer. Pas d'informations privées."
+      placeholder: "Je souhaite reproduire un problème public, écrire des tests et soumettre une PR..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: public-consent
+    attributes:
+      label: Confirmation de publication
+      description: "Obligatoire : vous comprenez le caractère public de cette contribution."
+      options:
+        - label: "Je comprends que mes réponses seront publiques sur GitHub et je n'y inclus aucune information privée ou confidentielle."
+          required: true
