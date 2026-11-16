@@ -1,8 +1,10 @@
-# Tableau de suivi public des labs — OSEF Tech Intelligence
+# Tableau de suivi des 15 premiers labs — OSEF Tech Intelligence
 
 **Initialisation : 15 novembre 2026.** Ce tableau est un **registre de démarrage**, pas une preuve de lancement.  
 **Source de vérité :** les [GitHub Issues liées](LABS-CATALOGUE.md) ; en cas d'écart, vérifier l'issue et ses commentaires.  
 **Règle de confidentialité :** inscrire uniquement des pseudonymes GitHub de responsables **volontaires et publiquement confirmés** ; aucune adresse, e-mail, téléphone ou liste d'inscrits.
+
+**Autres labs disponibles :** [liste évolutive des GitHub Issues de labs OSEF](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues?q=is%3Aissue+in%3Atitle+LAB). Ce tableau suit les 15 premiers labs, pas tout le backlog OSEF.
 
 ## Tableau de pilotage
 
