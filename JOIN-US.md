@@ -6,9 +6,11 @@
 
 ## 1. Trois façons de participer
 
-1. **Réaliser un lab** : choisir un sujet dans le [catalogue des 15 labs](africa-opportunities/LABS-CATALOGUE.md), examiner l'issue liée et proposer un plan de réalisation.
+1. **Réaliser un lab** : choisir un sujet dans le [catalogue des 15 premiers labs](africa-opportunities/LABS-CATALOGUE.md), examiner l'issue liée et proposer un plan de réalisation.
 2. **Contribuer upstream** : choisir une issue de projet libre, reproduire le problème, respecter le guide de contribution et soumettre une PR lorsque cela est pertinent.
 3. **Proposer ou présenter un meetup** : consulter le [catalogue des meetups](africa-opportunities/MEETUPS-CATALOGUE.md), préparer une démonstration ou un retour d'expérience, sans annoncer de date avant validation.
+
+**Vous souhaitez un autre sujet ?** Consultez le [catalogue complet des issues de labs OSEF](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues?q=is%3Aissue+in%3Atitle+LAB), qui affiche les labs référencés dans les titres des issues du dépôt, au-delà de cette première sélection.
 
 **Premier parcours conseillé :** [LAB-AFR-001 — audit des projets OSS](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/29), [LAB-AFR-002 — Wikimedia](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/116) ou [LAB-AFR-011 — première contribution](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/109).
 
