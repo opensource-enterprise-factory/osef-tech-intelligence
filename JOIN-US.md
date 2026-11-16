@@ -12,13 +12,21 @@
 
 **Premier parcours conseillé :** [LAB-AFR-001 — audit des projets OSS](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/29), [LAB-AFR-002 — Wikimedia](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/116) ou [LAB-AFR-011 — première contribution](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/109).
 
-## 2. Manifester son intérêt — futur formulaire Google Forms
+## 2. Manifester son intérêt — formulaire GitHub public
 
-**Statut :** le formulaire Google Forms est préparé mais **pas encore créé ni ouvert aux réponses**. Le [guide de mise en place](onboarding/GOOGLE-FORMS-SETUP.md) et le [script de création](onboarding/create-osef-google-form.gs) sont disponibles ; le lien d'inscription sera ajouté ici uniquement après exécution, contrôle de confidentialité et essai réussi.
+**[Ouvrir le formulaire GitHub de participation](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/new?template=join-osef.yml)**
 
-**En attendant**, vous pouvez explorer le [catalogue des labs](africa-opportunities/LABS-CATALOGUE.md), lire les issues et contribuer directement aux dépôts publics, sans transmettre vos coordonnées. Ne publiez pas d'e-mail ni de téléphone dans une GitHub Issue.
+Le formulaire demande uniquement :
+- une URL GitHub **déjà publique** ;
+- le parcours souhaité (lab, contribution upstream, présentation de meetup) ;
+- éventuellement, un identifiant de lab ou d'issue ;
+- un objectif technique et une confirmation de compréhension de la publication.
 
-Le futur Google Forms demandera un pseudonyme, une URL GitHub publique, vos intérêts techniques et votre participation souhaitée. L'e-mail sera **facultatif**, visible seulement par les personnes habilitées au traitement des réponses, avec une autorisation **distincte** pour toute citation de votre profil dans un suivi public.
+**Attention : la réponse ouvre une GitHub Issue publique.** N'indiquez aucune adresse e-mail, numéro de téléphone, identité civile, CV privé, mot de passe, token, donnée client ou autre information confidentielle. Utilisez votre pseudonyme GitHub. Ne publiez aucune donnée de tiers sans autorisation.
+
+La participation est volontaire. Le dépôt n'attribue pas automatiquement de lab et ne garantit aucun mentorat, financement ou événement.
+
+Vous pouvez également consulter les issues et proposer une contribution directement sans remplir le formulaire d'intérêt. Aucun canal privé d'inscription n'est mis en place ici.
 
 ## 3. Réaliser un lab
 
