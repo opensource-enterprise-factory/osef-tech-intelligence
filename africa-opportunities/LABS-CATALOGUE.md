@@ -1,8 +1,10 @@
-# Catalogue des LABs issus de la veille Afrique — 15 novembre 2026
+# Catalogue des 15 premiers LABs issus de la veille Afrique — 15 novembre 2026
 
-**Statut :** 15 sujets liés à des GitHub Issues, dont 9 nouveaux et 6 reliés à des issues préexistantes. Aucun lab n'est déclaré réalisé ou financé.
+**Statut :** première sélection de 15 sujets liés à des GitHub Issues, dont 9 nouveaux et 6 reliés à des issues préexistantes. Aucun lab n'est déclaré réalisé ou financé.
 
 **Dépôt :** [OSEF Tech Intelligence](https://github.com/opensource-enterprise-factory/osef-tech-intelligence) · **Sources :** [Registre OPP](REGISTRY.md)
+
+**Choisir au-delà de cette sélection :** [consulter les issues de labs du dépôt OSEF](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues?q=is%3Aissue+in%3Atitle+LAB). Ce lien ouvre une recherche GitHub actualisée ; il ne s'agit pas d'un inventaire éditorial exhaustif déjà validé.
 
 | Identifiant du catalogue | Lab | Priorité proposée | Issue GitHub | Opportunités | Note |
 |---|---|---|---|---|---|
