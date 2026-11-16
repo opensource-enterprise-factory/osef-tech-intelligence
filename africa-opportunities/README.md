@@ -10,8 +10,9 @@ Ce répertoire regroupe **les opportunités exploitables par OSEF depuis l'Afriq
 
 - [Rejoindre les contributions — JOIN-US](../JOIN-US.md)
 - [Formulaire GitHub public de participation](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/new?template=join-osef.yml)
-- [Tableau de suivi des 15 labs](LABS-TRACKER.md)
-- [Catalogue des 15 labs](LABS-CATALOGUE.md)
+- [Tableau de suivi des 15 premiers labs](LABS-TRACKER.md)
+- [Catalogue des 15 premiers labs](LABS-CATALOGUE.md)
+- [Catalogue complet des issues de labs OSEF](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues?q=is%3Aissue+in%3Atitle+LAB) — recherche GitHub évolutive, sans limitation aux 15 premiers labs.
 - [Catalogue des meetups](MEETUPS-CATALOGUE.md)
 
 ## Fiches historiques — 10 novembre 2026
