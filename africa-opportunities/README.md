@@ -9,7 +9,7 @@ Ce répertoire regroupe **les opportunités exploitables par OSEF depuis l'Afriq
 ## Participer et suivre les réalisations
 
 - [Rejoindre les contributions — JOIN-US](../JOIN-US.md)
-- [Google Forms : guide de création (lien d'inscription à venir)](../onboarding/GOOGLE-FORMS-SETUP.md)
+- [Formulaire GitHub public de participation](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/new?template=join-osef.yml)
 - [Tableau de suivi des 15 labs](LABS-TRACKER.md)
 - [Catalogue des 15 labs](LABS-CATALOGUE.md)
 - [Catalogue des meetups](MEETUPS-CATALOGUE.md)
