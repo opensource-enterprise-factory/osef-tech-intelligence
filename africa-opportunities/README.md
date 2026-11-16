@@ -13,7 +13,8 @@ Ce répertoire regroupe **les opportunités exploitables par OSEF depuis l'Afriq
 - [Tableau de suivi des 15 premiers labs](LABS-TRACKER.md)
 - [Catalogue des 15 premiers labs](LABS-CATALOGUE.md)
 - [Catalogue complet des issues de labs OSEF](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues?q=is%3Aissue+in%3Atitle+LAB) — recherche GitHub évolutive, sans limitation aux 15 premiers labs.
-- [Catalogue des meetups](MEETUPS-CATALOGUE.md)
+- [Catalogue des premiers meetups](MEETUPS-CATALOGUE.md)
+- [Toutes les issues de type meetup](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues?q=is%3Aissue+in%3Atitle+MEETUP) — recherche GitHub dynamique, au-delà de la sélection éditoriale.
 
 ## Fiches historiques — 10 novembre 2026
 
