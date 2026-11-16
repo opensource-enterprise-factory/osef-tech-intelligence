@@ -10,8 +10,8 @@ Ce dépôt rassemble des veilles **Cloud Native**, **Linux Foundation** et **Ope
 
 - **[JOIN-US.md — Guide pour rejoindre les labs et meetups](JOIN-US.md)**
 - **[Formulaire GitHub de participation](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/new?template=join-osef.yml)** — public : profil GitHub et objectif technique uniquement, aucune coordonnée privée.
-- **[Tableau de suivi des 15 labs](africa-opportunities/LABS-TRACKER.md)** — responsable public confirmé, statut et preuves de réalisation.
-- [Catalogue des labs](africa-opportunities/LABS-CATALOGUE.md) · [Catalogue des meetups](africa-opportunities/MEETUPS-CATALOGUE.md)
+- **[Tableau de suivi des 15 premiers labs](africa-opportunities/LABS-TRACKER.md)** — responsable public confirmé, statut et preuves de réalisation.
+- [Catalogue des 15 premiers labs](africa-opportunities/LABS-CATALOGUE.md) · [Catalogue complet des issues de labs](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues?q=is%3Aissue+in%3Atitle+LAB) · [Catalogue des meetups](africa-opportunities/MEETUPS-CATALOGUE.md)
 
 > Les propositions de participation ne valent pas recrutement, affectation, mentorat garanti ou engagement de financement. Les issues GitHub sont publiques.
 
