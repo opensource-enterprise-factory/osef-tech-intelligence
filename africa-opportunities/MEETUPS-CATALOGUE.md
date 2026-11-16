@@ -4,6 +4,8 @@
 **Statut :** idées de meetups pour qualification. **Aucun événement, intervenant ou partenariat n'est confirmé par ce catalogue.**  
 **Sources éditoriales :** [REGISTRY.md](REGISTRY.md) (OPP-001 à OPP-040) et [LABS-CATALOGUE.md](LABS-CATALOGUE.md).
 
+**Parcourir toutes les propositions :** [issues GitHub de type meetup](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues?q=is%3Aissue+in%3Atitle+MEETUP). Cette recherche dynamique complète la sélection de ce catalogue et peut inclure des propositions supplémentaires.
+
 ## Dix nouvelles propositions créées
 
 | Identifiant | Meetup | Priorité proposée | GitHub issue | Fiches de veille | LAB connexe |
