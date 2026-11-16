@@ -9,7 +9,7 @@ Ce dépôt rassemble des veilles **Cloud Native**, **Linux Foundation** et **Ope
 ## Participer aux contributions OSEF
 
 - **[JOIN-US.md — Guide pour rejoindre les labs et meetups](JOIN-US.md)**
-- **[Préparation du Google Forms](onboarding/GOOGLE-FORMS-SETUP.md)** — formulaire à créer et à publier après validation de la confidentialité ; lien répondants non encore disponible.
+- **[Formulaire GitHub de participation](https://github.com/opensource-enterprise-factory/osef-tech-intelligence/issues/new?template=join-osef.yml)** — public : profil GitHub et objectif technique uniquement, aucune coordonnée privée.
 - **[Tableau de suivi des 15 labs](africa-opportunities/LABS-TRACKER.md)** — responsable public confirmé, statut et preuves de réalisation.
 - [Catalogue des labs](africa-opportunities/LABS-CATALOGUE.md) · [Catalogue des meetups](africa-opportunities/MEETUPS-CATALOGUE.md)
 
