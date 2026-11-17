@@ -81,6 +81,7 @@ Les contributions communautaires sont volontaires et respectent les licences, au
 ## Ressources
 
 - [Catalogue pilote 12 semaines](CATALOGUE-12-SEMAINES.md)
+- [Appel à quatre référents volontaires : candidatures, sélection, mandats](REFERENTS-VOLONTAIRES.md)
 - [Modèle de fiche technologie](templates/technology-profile.md)
 - [Modèle de meetup](templates/meetup.md)
 - [Modèle de lab](templates/lab.md)
