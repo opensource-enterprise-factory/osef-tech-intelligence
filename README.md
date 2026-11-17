@@ -6,6 +6,20 @@ Ce dépôt rassemble des veilles **Cloud Native**, **Linux Foundation** et **Ope
 
 > **Statut :** infrastructure éditoriale en préparation. Les modèles du dépôt ne signifient pas que des actualités ou des posts LinkedIn ont déjà été publiés.
 
+## OSEF Technology Discovery & Contribution Program (OSDEP)
+
+**Programme proposé : Discover → Meetup → Lab → Contribute → Industrialize → Business.**
+
+Chaque semaine, identifier un besoin concret des cloud providers, ESN ou entreprises, qualifier une technologie Open Source, préparer un meetup de découverte et un lab reproductible. Les contributions upstream et les blueprints industriels restent conditionnés aux résultats et aux capacités réelles.
+
+- [Programme, rôles, gouvernance et indicateurs](technology-discovery/README.md)
+- [Catalogue candidat de 12 semaines](technology-discovery/CATALOGUE-12-SEMAINES.md)
+- [Modèle de fiche technologie](technology-discovery/templates/technology-profile.md)
+- [Modèle de meetup](technology-discovery/templates/meetup.md)
+- [Modèle de lab](technology-discovery/templates/lab.md)
+
+> Le programme est une proposition à valider. Aucune session, affectation ou contribution n'est annoncée comme réalisée sans preuve.
+
 ## Participer aux contributions OSEF
 
 - **[JOIN-US.md — Guide pour rejoindre les labs et meetups](JOIN-US.md)**
