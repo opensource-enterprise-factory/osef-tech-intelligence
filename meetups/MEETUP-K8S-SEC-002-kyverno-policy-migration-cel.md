@@ -8,7 +8,7 @@
 **Fiche de veille associée :** [Kyverno — 19 novembre 2026](../cloud-native/2026/2026-11-19-kyverno-cel-performance.md)
 
 ## Faits vérifiés
-L'annonce Kyverno 1.19 décrit la dépréciation des API historiques Policy et ClusterPolicy au profit des API de politiques CEL ; les plans de suppression et la compatibilité doivent être vérifiés dans la version réellement déployée.
+L'annonce Kyverno 1.19 décrit la dépréciation des API historiques Policy et ClusterPolicy au profit des API CEL. Depuis Kyverno 1.20.0, publié le 12 novembre 2026, le moteur historique n'exécute plus ces politiques ; leur présence dans le cluster ne garantit donc pas leur application. Un garde-fou Helm peut bloquer l'upgrade en présence de politiques historiques.
 
 ## Ce qui change
 Le parcours de migration doit intégrer les API CEL et des tests d'équivalence fonctionnelle plutôt que se limiter à une mise à niveau du contrôleur.
@@ -29,7 +29,7 @@ Préparer un atelier de migration avec matrice de correspondance, tests et proc�
 - **Statut :** proposé, non exécuté.
 
 ## Meetup afférent
-**Titre :** Kyverno 1.19+ : migrer ses politiques historiques vers CEL sans régression  
+**Titre :** Kyverno 1.20 : vérifier l'exécution effective des politiques après migration vers CEL  
 **Public :** SRE, DevSecOps, RSSI, DSI et architectes.  
 **Format :** 60 minutes, présentation, démonstration du lab en cluster isolé, discussion et questions.  
 **Démonstration :** LAB-K8S-SEC-002.  
@@ -53,3 +53,10 @@ Préparer un atelier de migration avec matrice de correspondance, tests et proc�
 
 ## Précautions
 Aucun test de charge sur des clusters de production. Les performances du moteur CEL ne doivent pas être confondues avec la latence totale d'admission.
+
+## Actualisation — 22 novembre 2026
+**Nouveau point de vigilance :** en version 1.20, les politiques historiques ne sont plus exécutées. Avant toute démonstration, vérifier les règles CEL réellement appliquées, les tests d'équivalence et le comportement du garde-fou Helm. La date et les intervenants restent à confirmer.
+
+- Annonce officielle : https://kyverno.io/blog/2026/11/12/announcing-kyverno-release-1.20/
+- Fiche de veille corrective : [22 novembre 2026](../cloud-native/2026/2026-11-22-kyverno-v120-policy-migration-alert.md)
+- Lab mis à jour : [LAB-K8S-SEC-002](../labs/LAB-K8S-SEC-002-kyverno-legacy-to-cel.md)
